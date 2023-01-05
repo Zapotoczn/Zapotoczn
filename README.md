@@ -22,3 +22,10 @@
   <a href = "mailto:fszcdi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/filipe-zapotoczny-b20ba2186/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+ 
+  <br>
+  
+   <h1> O foco é a evolução! </h1>
+<div>
+<img align="center" alt="zidrico-yoda" src="https://i0.wp.com/thumbs.gfycat.com/CorruptUnderstatedDanishswedishfarmdog-size_restricted.gif">
+</div>
