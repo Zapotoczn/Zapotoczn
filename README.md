@@ -21,4 +21,5 @@
    <h1> O foco é a evolução! </h1>
 <div>
 <img align="center" alt="zidrico-yoda" src="https://i0.wp.com/thumbs.gfycat.com/CorruptUnderstatedDanishswedishfarmdog-size_restricted.gif">
+<img align="center" alt="zidrico-yoda" src="https://media.tenor.com/6rp1RIWybD4AAAAd/death-note-kira.gif">
 </div>
