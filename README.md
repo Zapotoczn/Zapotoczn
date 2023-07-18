@@ -23,3 +23,6 @@
 <div>
 <img align="center" alt="zidrico-yoda" src="https://media.tenor.com/5wJl1vygaTEAAAAC/kimetsu-no-yaiba-hashira.gif">
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=FrancisBernard34&theme=dark&hide_border=false)<br/>
