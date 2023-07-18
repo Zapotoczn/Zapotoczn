@@ -21,7 +21,7 @@ Enjoy my profile.
  
   <br>
   
-   <h1> O foco é a evolução! </h1>
+   <h1> The focus is evolution! </h1>
 <div>
 <img align="center" alt="zidrico-yoda" src="https://media.tenor.com/5wJl1vygaTEAAAAC/kimetsu-no-yaiba-hashira.gif">
 </div>
