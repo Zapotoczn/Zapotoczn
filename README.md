@@ -23,7 +23,7 @@ Enjoy my profile.
   
    <h1> The focus is evolution! </h1>
 <div>
-<img align="center" alt="zidrico-yoda" src="https://media.tenor.com/5wJl1vygaTEAAAAC/kimetsu-no-yaiba-hashira.gif">
+<img align="center" alt="zidrico-yoda" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fbandainamco-fight-tekken-tekken8-7wZVhq1bRispXgaJz1&psig=AOvVaw0hDqp6T52htcw2FAOiyHx-&ust=1715041945385000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiHqaDj94UDFQAAAAAdAAAAABAI">
 </div>
 
 # 📊 GitHub Stats:
