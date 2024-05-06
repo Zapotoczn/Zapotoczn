@@ -23,7 +23,7 @@ Enjoy my profile.
   
    <h1> The focus is evolution! </h1>
 <div>
-<img align="center" alt="zidrico-yoda" src="https://media.giphy.com/media/0s0bOJjSk1X0EntSwD/giphy.gif?cid=ecf05e47ib1l4ibmcc5fnfv35u80wr3jdpc0d5qbgl79ctuw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img align="center" alt="zidrico-yoda" src="https://media.giphy.com/media/RV2dSsvJHmeBwWhAYI/giphy.gif?cid=ecf05e47ib1l4ibmcc5fnfv35u80wr3jdpc0d5qbgl79ctuw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 # 📊 GitHub Stats:
