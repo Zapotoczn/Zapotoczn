@@ -23,7 +23,7 @@ Enjoy my profile.
   
    <h1> The focus is evolution! </h1>
 <div>
-<img align="center" alt="zidrico-yoda" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fbandainamco-fight-tekken-tekken8-7wZVhq1bRispXgaJz1&psig=AOvVaw0hDqp6T52htcw2FAOiyHx-&ust=1715041945385000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOiHqaDj94UDFQAAAAAdAAAAABAI">
+<img align="center" alt="zidrico-yoda" src="https://media.giphy.com/media/0s0bOJjSk1X0EntSwD/giphy.gif?cid=ecf05e47ib1l4ibmcc5fnfv35u80wr3jdpc0d5qbgl79ctuw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 </div>
 
 # 📊 GitHub Stats:
