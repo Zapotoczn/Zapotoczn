@@ -40,3 +40,4 @@ Enjoy my profile.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zapotoczn&theme=dark&hide_border=false)<br/>
+[![](https://visitcount.itsvg.in/api?id=Zapotoczn&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
