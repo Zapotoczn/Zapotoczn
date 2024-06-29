@@ -4,7 +4,8 @@ Enjoy my profile.
 
 
 - 🔭 I’m currently working on product customization
-- 🌱 graduated on analysis and systems development in FIAP  
+- 🌱 graduated on analysis and systems development in FIAP
+- 🌱 Studying an MBA at Rocketseat in fullstack development.
  <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
